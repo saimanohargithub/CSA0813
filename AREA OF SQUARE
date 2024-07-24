@@ -1,0 +1,7 @@
+a=4
+
+area=a*a
+
+print(area)
+
+16
