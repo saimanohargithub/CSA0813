@@ -1,0 +1,4 @@
+p=int(input('the value of p:'))
+n=int(input('the value of n:'))
+r=int(input('the value of r:'))
+print('simple interest:',(p*n*r)/100)
