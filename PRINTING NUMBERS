@@ -1,0 +1,3 @@
+n=1
+for i in range(n,11):
+    print(i)
