@@ -1,0 +1,5 @@
+def ascending(m):
+    return(list)
+list=[2,5,7,10,4,6,15]
+list.sort()
+print("in ascending order:",list)
