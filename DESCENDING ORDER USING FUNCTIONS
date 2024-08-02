@@ -1,0 +1,4 @@
+def descending(list1):
+    return(list1)
+list1=sorted([2,5,7,10,4,6,15],reverse=True)
+print("in descending order:",list1)
