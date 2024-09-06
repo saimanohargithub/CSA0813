@@ -1,0 +1,30 @@
+1.def print_pattern(n):
+    for i in range(n)
+        print('*' * (i + 1))
+
+# Test the function
+print_pattern(5)
+
+2.def find_common_elements( ):
+    common_elements = []
+    for item in lst1:
+        if item in lst2:
+            common_elements.append(item)
+    return common_elements
+
+# Test the function
+print("Common elements:", find_common_elements([1, 2, 3, 4], [3, 4, 5, 6]))
+
+3.def find_second_largest(nums)
+ nums.sort()
+    return nums[-2]
+
+# Test the function
+print("Second largest number:", find_second_largest([5, 10, 3, 8, 9]))
+
+4.def list_operations(lst):
+    squared_list = [num  2 for num in lst]
+    return squared_list
+
+# Test the function
+print("Squared list:", list_operations([1, 2, 3, 4, 5]))
